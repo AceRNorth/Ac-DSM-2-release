@@ -37,7 +37,7 @@ Cell[BoxData[
        RowBox[{"mcmc", "--"}], "--"}]}]}]}], "*)"}], "\[IndentingNewLine]", 
   RowBox[{
    RowBox[{
-    RowBox[{"Get", "[", "\"\<~/Dropbox/MRR/MathematicaMCMC/mcmc.m\>\"", "]"}],
+    RowBox[{"Get", "[", "\"\<~./mcmc.m\>\"", "]"}],
      ";"}], "\[IndentingNewLine]", 
    RowBox[{"(*", 
     RowBox[{
@@ -74,7 +74,7 @@ Cell[BoxData[
    "\[IndentingNewLine]", 
    RowBox[{
     RowBox[{
-    "<<", "\"\<~/Dropbox/SterileMaleRelease/DSM_data/NatComsCodes/data\>\""}],
+    "<<", "\"\<~./data\>\""}],
      ";"}], "\[IndentingNewLine]", "\[IndentingNewLine]", 
    RowBox[{"(*", 
     RowBox[{
